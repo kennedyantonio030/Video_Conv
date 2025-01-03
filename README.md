@@ -49,7 +49,7 @@ Thanks for works of [TransRAC](https://github.com/SvipRepetitionCounting/TransRA
 
 
 ### Contact
-If you have any questions, please feel free to contact: cshwang@comp.polyu.edu.hk
+If you have any questions, please feel free to contact: kennedyantonio030@gmail.com
 
 
 <details>
